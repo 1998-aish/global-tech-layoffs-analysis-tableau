@@ -56,4 +56,4 @@ A weak correlation (low R²) between funding raised and layoffs suggests that ca
 ---
 
 ## 📷 Dashboard Preview
-![Global Layoffs Dashboard](dashboard-pre_view.png)
+![Global Layoffs Dashboard](dashboard-pre_view.png.png)
